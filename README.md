@@ -1,4 +1,19 @@
-# XQ-MEval: A Dataset with Cross-lingual Parallel Quality for Benchmarking Translation Metrics
+<div align="center">
+  
+  <h1>
+    XQ-MEval: A Dataset with Cross-lingual Parallel Quality<br>
+    for Benchmarking Translation Metrics
+  </h1>
+</div>
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg" /></a>
+</p>
+<p align="center">
+Jingxuan Liu*, Zhi Qu*, Jin Tei, Hidetaka Kamigaito, Lemao Liu, Taro Watanabe
+</p>
+
+This paper has been accepted by ACL 2026 Findings!
+
 ## Introduction
 We construct a quality-parallel dataset by injecting varying numbers of Multidimensional Quality Metric [(MQM)](https://github.com/google/wmt-mqm-human-evaluation?tab=readme-ov-file)-defined errors into high-quality translations, enabling controlled and comparable translation quality across languages. This dataset serves as a benchmark for the systematic evaluation of cross-lingual scoring bias in evaluation metrics.
 The figure illustrates our dataset construction pipeline, which is highly flexible and can be readily adapted or extended to different languages and error types.
