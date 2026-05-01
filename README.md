@@ -107,3 +107,14 @@ python functions/table_gather.py
 ```
 ## Citation
 If you use XQ-MEval in your research, please cite our paper:
+```bibtex
+@misc{liu2026xqmevaldatasetcrosslingualparallel,
+      title={XQ-MEval: A Dataset with Cross-lingual Parallel Quality for Benchmarking Translation Metrics}, 
+      author={Jingxuan Liu and Zhi Qu and Jin Tei and Hidetaka Kamigaito and Lemao Liu and Taro Watanabe},
+      year={2026},
+      eprint={2604.14934},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2604.14934}, 
+}
+```
