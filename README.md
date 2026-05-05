@@ -106,6 +106,7 @@ done
 python functions/table_gather.py
 ```
 ## Citation
+This dataset is also available on [Hugging Face](https://huggingface.co/datasets/wangzailiunai/XQ-MEval).
 If you use XQ-MEval in your research, please cite our paper:
 ```bibtex
 @misc{liu2026xqmevaldatasetcrosslingualparallel,
